@@ -1,0 +1,11 @@
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\bin\Debug\Quiz04.exe.config
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\bin\Debug\Quiz04.exe
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\bin\Debug\Quiz04.pdb
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.csproj.AssemblyReference.cache
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.Form1.resources
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.Properties.Resources.resources
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.csproj.GenerateResource.cache
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.exe
+C:\Users\Admin\source\Andong_Test2\Quiz04\Quiz04\obj\Debug\Quiz04.pdb
