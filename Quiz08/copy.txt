@@ -1,0 +1,12 @@
+const fs = require('fs');
+const {Console} = require('console');
+const {stderr} = require('process');
+
+const output = fs.createWriteStream('.AAA.txt');
+
+const logger = new Console(output);
+logger.log('ABCDEFG');
+fs.copyFile('AAA.txt','BBB.txt',(err) = {
+    if (err) throw err;
+    console.log('source.txt was copied to destination.txt');
+  });
